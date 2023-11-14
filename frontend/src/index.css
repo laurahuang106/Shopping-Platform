@@ -19,3 +19,7 @@ h3{
 .rating span{
   margin:0.1rem;
 }
+
+.input-padding {
+  padding-bottom: 20px; /* Adjust the padding as needed */
+}
